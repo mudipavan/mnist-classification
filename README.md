@@ -186,4 +186,4 @@ print(x_single_prediction)
 
 
 ## RESULT
-A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
+A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully
