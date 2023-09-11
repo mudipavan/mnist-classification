@@ -162,23 +162,27 @@ print(x_single_prediction)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![dl 3-2](https://github.com/yashaswimitta/mnist-classification/assets/94619247/efec4ff0-f090-4560-bdb8-5e12132e4fe5)
-![dl 3-3](https://github.com/yashaswimitta/mnist-classification/assets/94619247/dfe7e70d-9b65-4adb-8391-9b7067441973)
+![d 3-2](https://github.com/mudipavan/mnist-classification/assets/94828517/8297f86c-d50c-49f8-baa5-52739b588bfd)
+![d 3-3](https://github.com/mudipavan/mnist-classification/assets/94828517/2b1e65dd-5fbb-4bac-a71d-181e3f951489)
+
 
 
 ### Classification Report
 
-![dl 3-4](https://github.com/yashaswimitta/mnist-classification/assets/94619247/8b922276-474d-4956-8f6a-349ef8eaa65a)
+![d 3-4](https://github.com/mudipavan/mnist-classification/assets/94828517/7ba861c3-3e61-45d0-86c3-d197ed8c1dc0)
+
 
 
 ### Confusion Matrix
 
-![dl 3-5](https://github.com/yashaswimitta/mnist-classification/assets/94619247/f490f267-964d-4dcb-9c5d-3f6432064ed5)
+![d 3-5](https://github.com/mudipavan/mnist-classification/assets/94828517/e2110f31-ebc4-4173-b25b-cd967cac9d6e)
+
 
 
 ### New Sample Data Prediction
 
-![dl 3-6](https://github.com/yashaswimitta/mnist-classification/assets/94619247/d206c36b-9f46-4326-bebf-fa7ba890001c)
+![d 3-6](https://github.com/mudipavan/mnist-classification/assets/94828517/0faac648-fdb2-45d9-b6d0-00bd919366db)
+
 
 
 ## RESULT
